@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1029154481746",
+    "firebase_url": "https://presensesystemapp-67376.firebaseio.com",
+    "project_id": "presensesystemapp-67376",
+    "storage_bucket": "presensesystemapp-67376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029154481746:android:4fabd76e043e544f",
+        "android_client_info": {
+          "package_name": "com.projectworlds.presensesystemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029154481746-rk8kb8uqtjm0h24cb86a223ai5d2i3jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectworlds.presensesystemapp",
+            "certificate_hash": "f562bd2ea6a4a5e02c94e858108eb4fedfc17e4d"
+          }
+        },
+        {
+          "client_id": "1029154481746-a1qfjcfoki7hm88sb5m39m83v61fv5ts.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1029154481746-a1qfjcfoki7hm88sb5m39m83v61fv5ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATogVszi_9Zuh3TifGaliXXYfLW2bj09Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029154481746-a1qfjcfoki7hm88sb5m39m83v61fv5ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
